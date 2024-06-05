@@ -9,4 +9,7 @@ All these codes are based on the Rust Book 💪
 - cargo run
 - cargo check
 ### 2. Guessing Game
--
+- let
+- match
+- dependencies (rand)
+- functions
