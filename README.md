@@ -2,4 +2,4 @@
 Example codes on rust for quick rampup
 
 ## Codes Tested:
-### 1.Hello world
+### 1. Hello world
